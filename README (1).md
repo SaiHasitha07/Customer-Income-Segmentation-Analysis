@@ -50,8 +50,5 @@ Tried logistic regression, but it is not able to predict correctly on known data
 Therefore, KMeans is the best model.
 
 
-### YOUR NAME
 
-Dilrose Reji
-- DevIncept Participant
 
